@@ -21,3 +21,7 @@ def leer_xlsm(ruta_archivo):
         print("Error al parsear el archivo XLSM.")
     except Exception as e:
         print(f"Ocurrió un error: {e}")
+        
+        
+        numero = 0
+        numero = numero + 1
